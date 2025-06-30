@@ -2,7 +2,7 @@
 
 This project explores the Airbnb rental market in New York City using data from multiple file formats: CSV, TSV, and Excel. The goal is to combine and analyze data from different sources to gain insights into pricing, room types, and host activity across NYC neighborhoods.
 
-## 📁 Dataset Overview
+##  Dataset Overview
 
 The dataset includes the following three files located in the `data/` directory:
 
@@ -24,19 +24,19 @@ The dataset includes the following three files located in the `data/` directory:
   - `host_name`: Host’s name  
   - `last_review`: Date of last review  
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
 - Jupyter Notebook (optional for visualization/testing)
 
-## 📊 Features
+##  Features
 
 - Load and merge data from CSV, TSV, and Excel formats
 - Clean and explore listings by price, room type, and activity
 - Prepare the data for further analysis or visualization
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone this repository:
    ```bash
